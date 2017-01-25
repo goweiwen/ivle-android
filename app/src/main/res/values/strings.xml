@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">IVLE Android</string>
+    <string name="pkg_name">com.goweiwen.ivle</string>
 </resources>
